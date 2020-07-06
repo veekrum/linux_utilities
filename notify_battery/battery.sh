@@ -1,5 +1,5 @@
 #!/bin/bash 
-set -xe
+#set -xe
 
 state=`upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep state | awk '{print $2}'`
 #echo $state
