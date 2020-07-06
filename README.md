@@ -16,7 +16,6 @@
 - make executables: ```chmod +x battery.sh && chmod +x run.sh```
 - then execute : ```./run.sh```
 - wait for required condition
-
-
-
-
+### images
+- images with battery full
+[[https://github.com/veekrum/linux_utilities/blob/master/notify_battery/image1.png]]
